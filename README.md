@@ -4,9 +4,6 @@
 
 ---
 
-Optimized YMAP for your events PVP
-
-
 ## Features
 
 - PVP MAP
